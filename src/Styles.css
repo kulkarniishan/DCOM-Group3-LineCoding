@@ -1,0 +1,17 @@
+a:link{
+  color:gray;
+}
+a:visited{
+  color:green;
+}
+a:hover{
+  color:rebeccapurple;
+}
+a:active{
+  color:teal;
+}
+
+.cen{
+   text-align:center;
+   color: purple ;
+}
